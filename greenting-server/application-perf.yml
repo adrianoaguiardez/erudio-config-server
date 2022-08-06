@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: greenting-service
+greenting-service:
+  greeting: "Hola"
+  default-value: "Mundo"
